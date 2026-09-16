@@ -31,6 +31,7 @@ export const musicKits: MusicKit[] = [
  { id: 'ianhultquist_01', artist: 'Ian Hultquist' },
  { id: 'kitheory_01', artist: 'Kit Theory' },
  { id: 'mattlange_01', artist: 'Matt Lange' },
+ { id: 'micheal_01', artist: 'Micheal' },
  { id: 'michaelbross_01', artist: 'Michael Bross' },
  { id: 'neckdeep_01', artist: 'Neck Deep' },
  { id: 'newbeatfund_01', artist: 'New Beat Fund' },
